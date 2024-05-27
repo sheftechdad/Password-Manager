@@ -105,7 +105,7 @@ username_label.grid(column=0,row=2)
 
 email_entry=Entry(width=40)
 email_entry.grid(column=1,row=2,columnspan=2)
-email_entry.insert(0, "shefali@gamil.com")
+email_entry.insert(0, "default@gamil.com")
 
 password_label=Label(text="Email/Password :")
 password_label.grid(column=0,row=3)
