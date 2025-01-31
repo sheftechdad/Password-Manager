@@ -1,3 +1,4 @@
+![password](https://github.com/user-attachments/assets/633c7d59-c24d-450c-a2b1-34993dbd378b)
 
 A Python-based password manager utilizing JSON ensures secure storage and easy management of passwords.
 By leveraging JSON for storing password data, it allows for straightforward data organization and retrieval.
